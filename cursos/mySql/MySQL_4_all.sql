@@ -159,3 +159,4 @@ CALL faturamento_total(2015,1);
 SET GLOBAL log_bin_trust_function_creators = 1;
 
 SELECT conta_notas('2015-01-01');
+
